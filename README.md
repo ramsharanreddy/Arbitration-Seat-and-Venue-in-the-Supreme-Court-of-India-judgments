@@ -1,10 +1,10 @@
 # Arbitration Seat and Venue in the Supreme Court of India, 2021 to 2026
 
 # # Team
-1.	Akshitha — Section A (Cases #1, #5, #9, #13, #17, #21, #25, #29)
-2.	Ram Sharan — Section A (Cases #2, #6, #10, #14, #18, #22, #26, #30)
-3.	Kritika — Section A (Cases #3, #7, #11, #15, #19, #23, #27)
-4.	Prateek — Section A (Cases #4, #8, #12, #16, #20, #24, #28)
+1.	Akshitha — DIVISION D (Cases #1, #5, #9, #13, #17, #21, #25, #29)
+2.	Ram Sharan — DIVISION D (Cases #2, #6, #10, #14, #18, #22, #26, #30)
+3.	Kritika — DIVISION D (Cases #3, #7, #11, #15, #19, #23, #27)
+4.	Prateek — DIVISION D (Cases #4, #8, #12, #16, #20, #24, #28)
 # # Topic
 This project examines how the Supreme Court of India demarcates the juridical "seat" of arbitration (lex arbitri and exclusive supervisory court jurisdiction under Sections 2(1)(e), 2(2), 9, 11(6), 14(2), 20, 29A (4), 34, and 42) from the geographical "venue" of hearings under Section 20(3) of the Arbitration and Conciliation Act, 1996. Following BGS SGS Soma JV v. NHPC Ltd., (2020) 4 SCC 234, commercial litigants repeatedly tested whether shifting hearing locations, executing contracts across states, or naming foreign venues alters supervisory court competence. This topic interests our team because a single drafting ambiguity between "seat" and "venue" routinely triggers multi-year jurisdictional litigation across High Courts before reaching the Supreme Court.
 # # How We Found the Judgments
