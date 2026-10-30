@@ -29,5 +29,5 @@ A reader should not conclude from these 30 judgments that High Courts routinely 
 
 # # AI-Use Disclosure
 
-We used Claude to assist with Python statistical scripts, generating our matplotlib charts (chart1-per-year.png, chart2-outcomes.png, chart3-who-won.png), building the interactive HTML5 dashboard (index.html), and tightening one-line summaries. Every neutral citation (INSC), decision date, coram, statutory provision, and holding formatted with AI assistance was manually verified by the assigned team member against the official signed PDF judgment on api.sci.gov.in and sci.gov.in before entry into data.csv and data.xlsx.
+We used Claude to assist with Python statistical scripts, generating our matplotlib charts (chart1-per-year.png, chart2-outcomes.png, chart3-who-won.png), building the interactive HTML5 dashboard (index.html). Every neutral citation (INSC), decision date, coram, statutory provision, and holding was manually verified by the assigned team member against the official signed PDF judgment on api.sci.gov.in and sci.gov.in before entry into data.csv and data.xlsx.
 
